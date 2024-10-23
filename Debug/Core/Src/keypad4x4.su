@@ -1,0 +1,2 @@
+../Core/Src/keypad4x4.c:35:13:Check_Keypad_Column	16	static
+../Core/Src/keypad4x4.c:61:6:KEYPAD_Read	16	static
